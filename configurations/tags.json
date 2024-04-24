@@ -1,0 +1,10 @@
+{
+  "docType": "<!DOCTYPE html>",
+  "titles": {
+    "languagesTitle": "<p class='title'><b>Languages:</b></p>",
+    "birthDateTitle": "<p class='title'><b>Birthday:</b></p>",
+    "nameTitle": "<p class='title'><b>Name:</b></p>",
+    "aboutMeTitle": "<p class='title'><b>About myself:</b></p>",
+    "studyTitle": "<p class='title'><b>Place of study:</b></p>"
+  }
+}

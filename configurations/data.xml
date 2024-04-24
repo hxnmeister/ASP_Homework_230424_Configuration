@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<personalInfo>
+		<firstName>Valerii</firstName>
+		<lastName>Stronskyi</lastName>
+		<birthDate>21 January 2000</birthDate>
+		<studyPlaces>
+			<school>School No. 15</school>
+			<college>State Vocational and Technical Educational Institution "Sumy Center of Vocational and Technical Education No. 2"</college>
+			<ITCourses>Computer Academy "IT Step"</ITCourses>
+		</studyPlaces>
+		<languages>
+			<german>German (A2)</german>
+			<english>English (A2)</english>
+			<italian>Italian (A1)</italian>
+			<ukrainian>Ukrainian (native)</ukrainian>
+		</languages>
+		<aboutMe>
+			I have a great desire for new knowledge and discoveries in the field of programming and beyond.
+			After graduation, I will continue to develop and learn new things both in C# and in other programming languages
+		</aboutMe>
+	</personalInfo>
+</root>
